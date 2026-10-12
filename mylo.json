@@ -2,6 +2,8 @@
  "casting": "a_faire",
  "cree": "2026-10-12",
  "etat": "actif",
- "suivi": {},
+ "suivi": {
+  "active": "2026-10-12"
+ },
  "v": 0
 }
